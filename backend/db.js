@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const mongoURI = "mongodb://127.0.0.1:27017/inotebook";
+const mongoURI = process.env.MONGO_URI; // will be read from Render
 
 const connectToMongo = async () => {
   try {

@@ -52,7 +52,8 @@ const Navbar = () => {
           {/* 🟣 Right-side buttons */}
           {!localStorage.getItem("token") ? (
             // 🧱 If NOT logged in → show Login/Signup
-            <form className="d-flex gap-2" role="buttons">
+            <form className="d-flex gap-2">
+
               <Link className="btn btn-primary" to="/login">
                 Login
               </Link>
