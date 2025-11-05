@@ -47,14 +47,6 @@ const Navbar = () => {
                 Home
               </Link>
             </li>
-            <li className="nav-item">
-              <Link
-                className={`nav-link ${location.pathname === "/about" ? "active" : ""}`}
-                to="/about"
-              >
-                About
-              </Link>
-            </li>
           </ul>
 
           {/* 🟣 Right-side buttons */}
