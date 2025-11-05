@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MindPad/static/css/main.87ab02da.css",
-    "main.js": "/MindPad/static/js/main.f6bad2cd.js",
+    "main.js": "/MindPad/static/js/main.a6a180aa.js",
     "index.html": "/MindPad/index.html",
     "main.87ab02da.css.map": "/MindPad/static/css/main.87ab02da.css.map",
-    "main.f6bad2cd.js.map": "/MindPad/static/js/main.f6bad2cd.js.map"
+    "main.a6a180aa.js.map": "/MindPad/static/js/main.a6a180aa.js.map"
   },
   "entrypoints": [
     "static/css/main.87ab02da.css",
-    "static/js/main.f6bad2cd.js"
+    "static/js/main.a6a180aa.js"
   ]
 }
